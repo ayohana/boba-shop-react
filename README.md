@@ -34,9 +34,7 @@
 
 ## Screenshots
 
-_Coming up next week!_
-
-<!-- <img style="width:600px" src="./public/img/app-screenshot.jpg"> -->
+_Please refer to [Boba Shop in Redux](https://github.com/ayohana/boba-shop-redux.git) for screenshots!_
 
 ## Installation Instructions
 
@@ -50,6 +48,7 @@ _Coming up next week!_
 ## Known Bugs
 
 No known bugs at this time.
+Note: This application was developed further into a Redux application. See this repo: [Boba Shop in Redux](https://github.com/ayohana/boba-shop-redux.git)
 
 ## Technologies Used
 
